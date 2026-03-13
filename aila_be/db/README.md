@@ -1,0 +1,1 @@
+# This Folder contains the database files for the RAG system. It includes the Chroma vector store and any related configurations. The Chroma vector store is used to store and retrieve text chunks based on their embeddings, enabling efficient similarity search for relevant information during the RAG process.
