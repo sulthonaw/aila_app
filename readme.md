@@ -1,3 +1,4 @@
+![cover](https://github.com/sulthonaw/aila_app/blob/main/cover.png)
 # Aila App
 
 **Aila** is a mobile application powered by **Artificial Intelligence (AI)** designed to support teachers in areas with limited digital infrastructure, particularly in remote regions. The application utilizes a **Lightweight Large Language Model (LLM)** that can run **offline directly on the teacher’s device**, allowing it to function even without an internet connection.
@@ -25,9 +26,9 @@ By adopting this approach, **Aila aims to reduce the gap in access to learning r
 
 ## Project Resources
 
-- 📄 **Final Report:** 
-- 🎥 **Demo Video:** https://youtu.be/AFHjw9zApXA
-- 📱**Prototype:** https://www.figma.com/proto/JVKAr0hY4omSdF0dQoThnR/Aila?node-id=4-5&p=f&t=svTkVZ8J3C5U5jvL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=88%3A1146
+- 📄 **Final Report:** [GO TO REPORT](https://github.com/sulthonaw/aila_app/blob/main/report_aila.pdf)
+- 🎥 **Demo Video:** [GO TO DEMO YOUTUBE](https://youtu.be/AFHjw9zApXA)
+- 📱**Prototype:** [GO TO FIGMA PROTOTYPE](https://www.figma.com/proto/JVKAr0hY4omSdF0dQoThnR/Aila?node-id=4-5&p=f&t=svTkVZ8J3C5U5jvL-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=88%3A1146)
 
 ---
 
